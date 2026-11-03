@@ -1,13 +1,13 @@
 ## 👨🏾‍💻 Nicolas Antunes
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/nicolasantunes)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasantunes/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.antunes.messias@gmail.com)
 
 ---
 
 ## 📌 Sobre Mim
 
-Me chamo Nicolas Antunes Messias, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando o terceiro e ultimo modulo técnico em Análise e Desenvolvimento de Sistemas na ETEC Professor Basilides de Godoy. Tenho grande interesse por tecnologia e resolução de problemas, e utilizo este GitHub como um espaço para documentar minha evolução e compartilhar projetos desenvolvidos ao longo da minha jornada na área.
+Me chamo Nicolas Antunes Messias, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando o primeiro período de Ciência da Computação na Universidade Cruzeiro do Sul e sou formado como Técnico em Desenvolvimento de Sistemas pela ETEC Professor Basilides de Godoy. Tenho grande interesse por tecnologia e resolução de problemas, e utilizo este GitHub como um espaço para documentar minha evolução e compartilhar projetos desenvolvidos ao longo da minha jornada na área.
 
 ---
 
@@ -46,4 +46,6 @@ Me chamo Nicolas Antunes Messias, tenho 18 anos e sou natural de São Paulo. Atu
 
 ## 🎓 Formações
 
-### 📘 Desenvolvimento de Sistemas – ETEC Basilides de Godoy (Concluído)
+### 📘 Ciência da Computação – Universidade Cruzeiro do Sul (Cursando – 1º período)
+
+### 📘 Desenvolvimento de Sistemas – ETEC Professor Basilides de Godoy (Concluído)
